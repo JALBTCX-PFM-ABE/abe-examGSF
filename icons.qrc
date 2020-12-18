@@ -1,0 +1,11 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+	<file>icons/ACKNOWLEDGMENTS</file>
+        <file>icons/fileopen.png</file>
+        <file>icons/contextHelp.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/other.png</file>
+        <file>icons/examGSF.png</file>
+        <file>icons/prefs.png</file>
+ </qresource>
+ </RCC>
